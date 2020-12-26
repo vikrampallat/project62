@@ -1,0 +1,25 @@
+body {
+    background-color: darkcyan;
+    text-align: center;
+}
+
+
+img {
+    width: 100px height:100px
+}
+
+#slidecars {
+    background-color: red;
+}
+
+#slidecarslimg{
+    height: 330px;
+    margin-top: 35px;
+}
+.slidecars-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size:20px;
+    
+}
